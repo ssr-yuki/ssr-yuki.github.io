@@ -13,7 +13,7 @@ layout: default
 
 研究について詳しくは[こちら（現在構築中）](./index)をご覧ください．
 
-- 研究業績一覧：[T2R2（東京工業大学リサーチリポジトリ）](t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1)
+- 研究業績一覧：[T2R2（東京工業大学リサーチリポジトリ）](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1)
 - researchmap：[yuki_onishi](https://researchmap.jp/yuki_onishi/)
 
 ## Projects
