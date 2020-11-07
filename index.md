@@ -1,5 +1,6 @@
 ---
-layout: default
+title: Yuki Onishi
+description: A Roboticist
 ---
 
 # About Me
