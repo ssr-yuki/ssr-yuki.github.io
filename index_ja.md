@@ -7,7 +7,7 @@ description: A Roboticist
 
 現在，国立研究開発法人科学技術振興機構 戦略的創造研究推進事業(ACT-X)の研究者として，微分幾何学を基盤としたロボットの制御と知能化の研究に従事しています．
 
-> 1998年生まれ．2019年東京工業大学工学院システム制御系学士課程早期卒業．2021年同修士課程早期修了．同年同博士後期課程進学，ならびに東京工業大学工学院研究員に着任し，現在に至る．2020年より科学技術振興機構戦略的創造研究推進事業(ACT-X)研究者．ロボット知能化のための応用数理の研究に従事．日本ロボット学会，計測自動制御学会，IEEEの学生会員．
+> 1998年生まれ．2019年東京工業大学工学院システム制御系学士課程早期卒業．2021年同修士課程早期修了．現在，同博士後期課程，および東京工業大学工学院研究員．2020年より科学技術振興機構戦略的創造研究推進事業(ACT-X)研究者．ロボット知能化のための応用数理の研究に従事．日本ロボット学会，計測自動制御学会，IEEEの学生会員．
 
 # Research
 
@@ -21,7 +21,7 @@ description: A Roboticist
 現在，以下のプロジェクトに参加しています．
 
 - 日本学術振興会 科学研究費助成事業 基盤研究(B) 「[空間量子化ダイナミクスとリーマン計量に基づくロボットの実時間軌道生成](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02124/)」（研究代表者：梶田秀司，課題番号：20H02124，2020.04-2023.03）．研究協力者として参加．
-- 国立研究開発法人科学技術振興機構 戦略的創造研究推進事業 ACT-X 領域名「[数理・情報のフロンティア](https://www.jst.go.jp/kisoken/act-x/research_area/ongoing/bunya2019-7.html)」，課題名「リーマン計量の合成による包摂アーキテクチャの構成」（研究代表者：大西祐輝，2020.11-2023.03）．
+- 国立研究開発法人 科学技術振興機構 戦略的創造研究推進事業 ACT-X 領域名「[数理・情報のフロンティア](https://www.jst.go.jp/kisoken/act-x/research_area/ongoing/bunya2019-7.html)」，課題名「[リーマン計量の合成による包摂アーキテクチャの構成](https://projectdb.jst.go.jp/grant/JST-PROJECT-20334732/)」（研究代表者：大西祐輝，課題番号： 	JPMJAX2008，2020.11-2023.03）．
 
 # Biography
 
@@ -74,8 +74,10 @@ description: A Roboticist
   - [Robotics and Automation Society](https://www.ieee-ras.org/)
 
 # Contact
+
 - email: `onishi <at> sl.sc.e.titech.ac.jp`
-- Address: S5-24, 2-12-1 Ookayama, Meguro, Tokyo 152-8550, Japan
+- 住所：〒152-8550 東京都目黒区大岡山2-12-1 南5号館304C (ポスト番号：S5-24)
+  - [学内地図](http://www.sl.sc.e.titech.ac.jp/SCHP/contact.html)
 
 # Links
 
