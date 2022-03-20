@@ -13,9 +13,9 @@ He is also a doctoral student in control engineering advised by Prof. Mitsuji Sa
 > 
 > He is a student member of the Robotics Society of Japan (RSJ), the Society of Instrument and Control Engineers (SICE), and IEEE Robotics and and Automation Society.
 
-- [Publication List](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1) (T2R2: Tokyo Tech Research Repository)
-- [researchmap (CV)](https://researchmap.jp/yuki_onishi/?lang=en) (National Researcher Database in Japan)
-- [GitHub](https://github.com/ssr-yuki)
+- CV on researchmap (Japan National Researcher Database): [yuki_onishi](https://researchmap.jp/yuki_onishi/?lang=en)
+- Publication List: [Yuki Onishi / T2R2 (Tokyo Tech Research Repository)](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1)
+- GitHub: [ssr-yuki](https://github.com/ssr-yuki)
 
 If you can read Japanese, please see [the Japanese page](./index_ja) for more detail.
 

@@ -1,6 +1,6 @@
 ---
-title: Research Musicality
-description: For Robots in the Open World
+title: Yuki Onishi
+description: Research Musicality
 ---
 
 実世界において，ロボットが人の介在なく，完全に自律して行動するための制御システム，情報処理システムの創出を目指しています．
