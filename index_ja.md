@@ -13,8 +13,8 @@ description: A Roboticist
 
 > 1998年生まれ．2019年東京工業大学工学院システム制御系学士課程早期卒業．2021年同修士課程早期修了．現在，同博士後期課程，および東京工業大学工学院研究員．2020年より科学技術振興機構戦略的創造研究推進事業(ACT-X)研究者．ロボット知能化のための応用数理の研究に従事．日本ロボット学会，計測自動制御学会，IEEEの学生会員．
 
-- researchmap：[yuki_onishi](https://researchmap.jp/yuki_onishi/)
 - [Curriculum Vitae](bio_ja)
+- researchmap：[yuki_onishi](https://researchmap.jp/yuki_onishi/)
 - GitHub: [ssr-yuki](https://github.com/ssr-yuki)
 
 # Research
