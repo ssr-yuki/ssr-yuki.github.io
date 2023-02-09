@@ -5,11 +5,11 @@ description: A Roboticist
 
 # Biography
 
-Yuki Onishi is a Research Staff (a.k.a. Project Researcher) in robotics at the School of Engineering, Tokyo Institute of Technology, Japan. He serves as a principal investigator of the strategical basic research program ACT-X, Japan Science and Technology Agency (JST).
+Yuki Onishi is a Research Staff (a.k.a. Project Researcher) in robotics at the School of Engineering, Tokyo Institute of Technology, Japan. He serves as a principal investigator of the strategic basic research program ACT-X, Japan Science and Technology Agency (JST).
 
 He is also a doctoral student in control engineering advised by Prof. Mitsuji Sampei.
 
-> Yuki Onishi was born in 1998. He received his B.E. and M.E. degrees in control engineering from Tokyo Institute of Technology, in 2019 and 2021, respectively. He is currently a research staff at Tokyo Institute of Technology while pursing his Ph.D degree. Since Nov. 2020, he has been a principal investigator of the strategical basic research program ACT-X, Japan Science and Technology Agency (JST). His research interests are mathematics for robotics.
+> Yuki Onishi was born in 1998. He received his B.E. and M.E. degrees in control engineering from Tokyo Institute of Technology, in 2019 and 2021, respectively. He is currently a research staff at Tokyo Institute of Technology while pursing his Ph.D degree. Since Nov. 2020, he has been a principal investigator of the strategic basic research program ACT-X, Japan Science and Technology Agency (JST). His research interests are mathematics for robotics.
 > 
 > He is a student member of the Robotics Society of Japan (RSJ), the Society of Instrument and Control Engineers (SICE), and IEEE Robotics and and Automation Society.
 
