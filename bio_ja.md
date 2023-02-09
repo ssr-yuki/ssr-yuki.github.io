@@ -58,6 +58,7 @@ description: Curriculum Vitae
 | 期間 | 所属 |
 | :--- | :--- |
 | 2020.05 - 現在 | [ロボティクス勉強会（ロボゼミ）](https://robosemi.github.io/) 発起人・運営 |
+| 2020.03 - 現在 | [ロボット用統合GUIソフトウェアChoreonoid](https://choreonoid.org/ja/) 開発メンバ |
 | 2019.08 - 現在 | 脚ロボット研究開発サークル Cross Progress <br> 制御担当（兼）プロジェクトマネージャ |
 | 2019.08 - 2019.11 | [東京オープンソースロボティクス協会 (TORK)](https://opensource-robotics.tokyo.jp/) |
 | 2018.10 - 現在 | [FIRST Japan](https://firstjapan.jp/) FRC委員会 委員 |
