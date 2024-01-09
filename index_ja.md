@@ -3,9 +3,9 @@ title: Yuki Onishi
 description: A Roboticist
 ---
 
-東京工業大学の研究員 兼 大学院博士後期課程学生です．
+東京工業大学の大学院博士後期課程学生です．
 
-現在，国立研究開発法人科学技術振興機構 戦略的創造研究推進事業(ACT-X)の研究者として，ロボットの制御と知能化の研究に従事しています．
+非線形制御理論と人型ロボットの研究に従事しています．
 
 動的で複雑な実環境において，ロボットが人の介在なく，完全に自律して行動するための制御システム，情報処理システムの創出を目指しています．
 
@@ -42,9 +42,10 @@ description: A Roboticist
 
 # Links
 
-- 所属：
+- 所属 / Current Affiliation
   - [東京工業大学](https://www.titech.ac.jp/) / [工学院システム制御系](https://educ.titech.ac.jp/sc/) / [三平研究室](http://www.sl.sc.e.titech.ac.jp/SCHP/index.html)
-- 共同研究：
+- 過去の所属 / Previous Affiliation
+  - [The Bio-Inspired Laboratory](https://birlab.org/), Department of Engineering, University of Cambridge, UK
+- 共同研究 / Collaborators
   - 中部大学 工学部 ロボット理工学科 梶田研究室
   - 国立研究開発法人産業技術総合研究所 [AIST-CNRSロボット工学研究ラボ](https://unit.aist.go.jp/jrl-2/)
-  - 東京工業大学 工学院システム制御系 [倉林研究室](http://www.irs.ctrl.titech.ac.jp/)
