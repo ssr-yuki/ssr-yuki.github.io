@@ -1,25 +1,34 @@
 ---
 title: Yuki Onishi
-description: A Roboticist
+description: A Roboticist / DEng
 ---
 
-# Biography
+Update: 18th Nov. 2024 / **[Japanese page](./index_ja)**
 
-Yuki Onishi is a doctoral student in robotics at the Department of Systems and Control Engineering, School of Engineering, Tokyo Institute of Technology, Japan. His advisor is Prof. Mitsuji Sampei.
+## Biography
 
-He is also appointed as a Research Fellow of Japan Society for the Promotion of Science (JSPS), Japan.
+Yuki Onishi is a Senior Research Scientist at the Future Robotics Technology Centre, Chiba Institute of Technology, Japan.
 
-> Yuki Onishi was born in 1998. He received his B.Eng. and M.Eng. degrees in systems and control engineering from Tokyo Institute of Technology, Japan, in 2019 and 2021, respectively. He is currently a doctoral student at Tokyo Institute of Technology and a research fellow of Japan Society for the Promotion of Science (JSPS). He was a principal investigator of the strategic basic research program ACT-X, Japan Science and Technology Agency (JST) from 2020 to 2023 and a research staff at Tokyo Institute of Technology from 2021 to 2023. His research interests include humanoid robotics and nonlinear control theory.
+He is also a Visiting Research Fellow at the School of Engineering, Institute of Science Tokyo (formerly known as Tokyo Institute of Technology), Japan.
+
+Research Interests: Control Theory, Humanoid Robotics, Science Communication
+
+> Yuki Onishi (born in 1998) is a Senior Research Scientist at the Future Robotics Technology Centre, Chiba Institute of Technology, Japan. He received his BEng, MEng, and DEng degrees in Systems and Control Engineering from Tokyo Institute of Technology, Japan, in 2019, 2021, and 2024, respectively, under the supervision of Prof. Mitsuji Sampei. During his study, he was a principal investigator of the Strategic Basic Research Program ACT-X by Japan Science and Technology Agency (JST) from 2020 to 2023, a research staff at Tokyo Institute of Technology from 2021 to 2023, a research fellow of Japan Society for the Promotion of Science (JSPS) from 2024 to 2024, and a visiting graduate student at the Department of Engineering, University of Cambridge, UK, in 2023.
 > 
-> He is a student member of the Robotics Society of Japan (RSJ), the Society of Instrument and Control Engineers (SICE), and IEEE Robotics and and Automation Society (RAS).
+> He is a member of the Robotics Society of Japan (RSJ) and IEEE.
 
 - CV on researchmap (Japan National Researcher Database): [yuki_onishi](https://researchmap.jp/yuki_onishi/?lang=en)
-- Publication List: [Yuki Onishi / T2R2 (Tokyo Tech Research Repository)](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1)
+- Publication List
+  - [Google Scholar](https://scholar.google.com/citations?user=TgNORQkAAAAJ)
+  - [T2R2 (Tokyo Tech Research Repository)](https://t2r2.star.titech.ac.jp/cgi-bin/researcherpublicationlist.cgi?lv=en&q_researcher_content_number=7ea460992f42e710d0a8afd31c578ddd&alldisp=1) (during my graduate study)
 - GitHub: [ssr-yuki](https://github.com/ssr-yuki)
 
-If you can read Japanese, please see [the Japanese page](./index_ja) for more detail.
+## Contact
 
-# Contact
+- email: `onishi <at> furo <dot> org`
+- Address: Building #8 8F, 2-17-1 Tsudanuma, Narashino, Chiba 275-0016, Japan
 
-- email: `onishi <at> sl.sc.e.titech.ac.jp`
-- Address: 2-12-1-S5-24 Ookayama, Meguro, Tokyo 152-8550, Japan
+Currently I only accept reviewer/editor invitations from academic communities.
+
+Do NOT send me any student applications.
+Our research centre does not open students positions.
