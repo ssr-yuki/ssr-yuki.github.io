@@ -7,7 +7,7 @@ Update: 18th Nov. 2024 / **[Japanese page](./index_ja)**
 
 ## Biography
 
-Yuki Onishi is a Senior Research Scientist at the Future Robotics Technology Centre, Chiba Institute of Technology, Japan.
+Yuki Onishi is a Senior Research Scientist at the Future Robotics Technology Center, Chiba Institute of Technology, Japan.
 
 He is also a Visiting Research Fellow at the School of Engineering, Institute of Science Tokyo (formerly known as Tokyo Institute of Technology), Japan.
 
@@ -28,7 +28,7 @@ Research Interests: Control Theory, Humanoid Robotics, Science Communication
 - email: `onishi <at> furo <dot> org`
 - Address: Building #8 8F, 2-17-1 Tsudanuma, Narashino, Chiba 275-0016, Japan
 
-Currently I only accept reviewer/editor invitations from academic communities.
+Currently I only accept reviewer/editor/speaker invitations from academic communities and my friends.
 
 Do NOT send me any student applications.
-Our research centre does not open students positions.
+Our research centre has neither educational programs nor student positions except for part-time jobs.
