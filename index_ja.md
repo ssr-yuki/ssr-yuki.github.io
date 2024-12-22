@@ -3,7 +3,7 @@ title: Yuki Onishi
 description: A Roboticist / DEng
 ---
 
-更新：2024年11月18日 / **[English page](./index)**
+更新：2024年12月23日 / **[English page](./index)**
 
 ---
 
@@ -18,9 +18,9 @@ description: A Roboticist / DEng
 
 ## Biography
 
-> 1998年群馬県高崎市生まれ．千葉工業大学 未来ロボット技術研究センター 上席研究員．東京科学大学特別研究員（客員）兼務．2019年 東京工業大学 工学院 システム制御系 学士課程 早期卒業．2021年 同 修士課程 早期修了．2024年 同 博士後期課程 修了，博士（工学）．この間2020年から2023年まで科学技術振興機構 戦略的創造研究推進事業ACT-X 研究者，2021年から2023年まで東京工業大学 工学院 研究員，2023年から2024年まで日本学術振興会 特別研究員 (DC2)，2023年ケンブリッジ大学 客員大学院生．2024年より現職．制御理論と人型ロボットの研究開発に従事．日本ロボット学会，IEEEの会員．
+> 1998年群馬県高崎市生まれ．千葉工業大学 未来ロボット技術研究センター 上席研究員．東京科学大学特別研究員（客員）兼務．2019年 東京工業大学 工学院 システム制御系 学士課程 早期卒業．2021年 同 修士課程 早期修了．2024年 同 博士後期課程 修了，博士（工学）．この間2020年から2023年まで科学技術振興機構 戦略的創造研究推進事業ACT-X 研究者，2021年から2023年まで東京工業大学 工学院 研究員，2023年から2024年まで日本学術振興会 特別研究員 (DC2)，2023年ケンブリッジ大学 客員大学院生．2024年より現職．制御理論および人型ロボットの研究開発と，科学技術コミュニケーションに従事．日本ロボット学会，IEEEの会員．
 
-- [Curriculum Vitae](bio_ja)
+- [プロフィール](bio_ja)
 - researchmap：[yuki_onishi](https://researchmap.jp/yuki_onishi/)
 - GitHub: [ssr-yuki](https://github.com/ssr-yuki)
 
@@ -48,7 +48,7 @@ description: A Roboticist / DEng
   - [未来ロボット技術研究センター](https://www.furo.org/) (2024-)
 - [東京工業大学](https://www.titech.ac.jp/) →[東京科学大学](https://www.isct.ac.jp/)
   - [工学院 システム制御系](https://educ.titech.ac.jp/sc/) / [三平研究室](http://www.sl.sc.e.titech.ac.jp/SCHP/index.html) (2019-)
-  - [ロボット技術研究会](https://www.rogiken.org/) (2016-2024)
+  - [ロボット技術研究会](https://www.rogiken.org/) (2016-)
 
 ##### 過去の所属
 
