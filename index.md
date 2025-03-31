@@ -3,17 +3,17 @@ title: Yuki Onishi
 description: A Roboticist / DEng
 ---
 
-Update: 23rd Dec. 2024 / **[Japanese page](./index_ja)**
+Update: 1st Apr. 2025 / **[Japanese page](./index_ja)**
 
 ## Biography
 
-Yuki Onishi is a Senior Research Scientist at the Future Robotics Technology Centre (fuRo), Chiba Institute of Technology, Japan.
+Yuki Onishi is a Principal Research Scientist at the Future Robotics Technology Centre (fuRo), Chiba Institute of Technology, Japan.
 
 He is also a Visiting Research Fellow at the School of Engineering, Institute of Science Tokyo (formerly known as Tokyo Institute of Technology), Japan.
 
 Research Interests: Control Theory, Humanoid Robotics, Science Communication
 
-> Yuki Onishi (born in 1998) is a Senior Research Scientist at the Future Robotics Technology Centre (fuRo), Chiba Institute of Technology, Japan. He received his BEng, MEng, and DEng degrees in Systems and Control Engineering from Tokyo Institute of Technology, Japan, in 2019, 2021, and 2024, respectively. During his graduate study, he was a principal investigator of the strategic basic research program ACT-X by Japan Science and Technology Agency (JST) from 2020 to 2023, a research fellow of Japan Society for the Promotion of Science (JSPS) from 2023 to 2024, and a visiting graduate student at the Department of Engineering, University of Cambridge, UK, in 2023.
+> Yuki Onishi (born in 1998) is a Principal Research Scientist at the Future Robotics Technology Centre (fuRo), Chiba Institute of Technology, Japan. He received his BEng, MEng, and DEng degrees in Systems and Control Engineering from Tokyo Institute of Technology, Japan, in 2019, 2021, and 2024, respectively. During his graduate study, he was a principal investigator of the strategic basic research program ACT-X by Japan Science and Technology Agency (JST) from 2020 to 2023, a research fellow of Japan Society for the Promotion of Science (JSPS) from 2023 to 2024, and a visiting graduate student at the Department of Engineering, University of Cambridge, UK, in 2023.
 >
 > He is a member of the Robotics Society of Japan (RSJ) and the Institute of Electrical and Electronics Engineers (IEEE), where he belongs to the Robotics and Automation Society (IEEE-RAS) and Control Systems Society (IEEE-CSS).
 
