@@ -7,10 +7,6 @@ description: Curriculum Vitae
 
 大西 祐輝 / Yuki Onishi
 
-## Short Biography
-
-> 1998年群馬県高崎市生まれ．千葉工業大学 未来ロボット技術研究センター 上席研究員．東京科学大学特別研究員（客員）兼務．2019年 東京工業大学 工学院 システム制御系 学士課程 早期卒業．2021年 同 修士課程 早期修了．2024年 同 博士後期課程 修了，博士（工学）．この間2020年から2023年まで科学技術振興機構 戦略的創造研究推進事業ACT-X 研究者，2021年から2023年まで東京工業大学 工学院 研究員，2023年から2024年まで日本学術振興会 特別研究員 (DC2)，2023年ケンブリッジ大学 客員大学院生．2024年より現職．制御理論および人型ロボットの研究開発と，科学技術コミュニケーションに従事．日本ロボット学会，IEEEの会員．
-
 ## Education
 
 | 年月 | 所属 |
@@ -31,7 +27,8 @@ description: Curriculum Vitae
 | 2020.11 - 2023.03 | 科学技術振興機構 戦略的創造研究推進事業ACT-X 研究者 |
 | 2021.04 - 2023.03 | 東京工業大学 工学院 研究員 |
 | 2023.04 - 2024.09 | 日本学術振興会 特別研究員 (DC2) |
-| 2024.10 - 現在 | 千葉工業大学 未来ロボット技術研究センター 上席研究員 |
+| 2024.10 - 2025.12 | 千葉工業大学 未来ロボット技術研究センター 上席研究員 |
+| 2026.01 - 現在| 国立情報学研究所 情報学プリンシプル研究系 特任研究員 |
 
 ### Part-timer / Internship
 
@@ -46,11 +43,8 @@ description: Curriculum Vitae
 | 2020.02 - 2020.04 | [株式会社ティアフォー](https://tier4.jp/) <br> リサーチャ（インターンシップ） |
 | 2020.09 - 2020.09 | [スマイルロボティクス株式会社](https://www.smilerobotics.com/home) <br> エンジニア（インターンシップ） |
 | 2020.11 - 2021.03 | 東京工業大学 工学院 システム制御系 <br> リサーチ・アシスタント (RA) |
-| 2021.01 - 2023.07 | [スマイルロボティクス株式会社](https://www.smilerobotics.com/home) <br> エンジニア（アルバイト） |
-| 2023.08 - 2024.09 | [株式会社シンクロボ](https://www.synchrobo.co.jp/) <br> エンジニア（アルバイト） |
+| 2021.01 - 2024.09 | [スマイルロボティクス株式会社](https://www.smilerobotics.com/home) -> [株式会社シンクロボ](https://www.synchrobo.co.jp/) <br> エンジニア（アルバイト） |
 | 2024.04 - 2024.09 | 東京工業大学 工学院 システム制御系 <br> リサーチ・アシスタント (RA) |
-
-
 
 ## Publications
 
@@ -66,23 +60,22 @@ description: Curriculum Vitae
 
 ## Activities
 
-以下の活動を個人的に行っています（いました）．
+以下の活動を個人的に行っています／いました．
 
 | 期間 | 所属 | 
 | :--- | :--- |
-| 2020.05 - 現在 | [ロボティクス勉強会（ロボゼミ）](https://robosemi.github.io/) 発起人・運営 |
+| 2020.05 - 現在 | [ロボティクス勉強会（ロボゼミ）](https://robosemi.github.io/) 運営会 |
 | 2020.03 - 現在 | [ロボット用統合GUIソフトウェアChoreonoid](https://choreonoid.org/ja/) 開発メンバ |
 | 2019.08 - 現在 | 脚ロボット研究開発サークル Cross Progress <br> 制御担当（兼）プロジェクトマネージャ |
 | 2019.08 - 2019.11 | [東京オープンソースロボティクス協会 (TORK)](https://opensource-robotics.tokyo.jp/) |
 | 2018.10 - 2023 | [FIRST Japan](https://firstjapan.jp/) FRC委員会 委員 |
-| 2016.04 - 現在 | [東京工業大学 ロボット技術研究会]((https://www.rogiken.org/)) 部員 |
+| 2016.04 - 2024.09 | [東京工業大学 ロボット技術研究会]((https://www.rogiken.org/)) 部員 |
 | 2015.11 - 2019.08 | 一般社団法人 日本ロボット教育推進機構 (J-REPO) 理事 |
 | 2014.08 - 2015.?? | FIRST Robotics Competition Team #5749 <br/> (Tokyo Technical Samurai) <br> 電気回路担当（兼）経理担当 |
 
 ## Licenses
 
-以下の国家取得を取得しています．
-いずれも経済産業省所管で，経済産業大臣の認定によるものです．
+以下の国家資格の認定を受けています．
 
 | 年月 | 資格 |
 | :--- | :--- |
@@ -96,11 +89,13 @@ description: Curriculum Vitae
 
 - [日本ロボット学会](https://www.rsj.or.jp/)
   - [若手・学生のためのキャリアパス開拓研究専門委員会（ろぼやん）](https://www.robo-young.jp/) 委員
+  - [第43回日本ロボット学会学術講演会 (RSJ2025)](https://ac.rsj-web.org/2025/) 実行委員
+- [日本応用数理学会](https://jsiam.org/)
 - [IEEE](https://www.ieee.org/)
   - [Robotics and Automation Society](https://www.ieee-ras.org/)
   - [Control Systems Society](https://www.ieeecss.org/)
 
 # Contact
 
-- email: `onishi <at> furo <dot> org`
-- 住所：〒275-0016 千葉県習志野市津田沼2-17-1 8号館8階
+- Email: `onishi <at> nii.ac.jp`
+- 住所：〒275-0016 柏市柏の葉6-2-3 国立情報学研究所 柏分館 N308（東京大学 柏IIキャンパス内）
